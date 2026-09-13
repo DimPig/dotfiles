@@ -47,6 +47,7 @@ download_oh_my_zsh_plugin () {
 }
 
 download_oh_my_zsh_plugin fzf-tab Aloxaf
+download_oh_my_zsh_plugin zsh-autopair hlissner
 
 # ---- oh-my-zsh themes ----
 download_oh_my_zsh_theme () {
